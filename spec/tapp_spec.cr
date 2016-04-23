@@ -1,9 +1,7 @@
 require "./spec_helper"
 
 describe Tapp do
-  # TODO: Write tests
-
-  it "works" do
-    false.should eq(true)
+  it "test" do
+    1.tapp.should eq 1
   end
 end

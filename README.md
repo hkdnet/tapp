@@ -1,6 +1,6 @@
 # tapp
 
-TODO: Write a description here
+[tapp](https://github.com/esminc/tapp) for Crystal.
 
 ## Installation
 
@@ -11,7 +11,6 @@ dependencies:
   tapp:
     github: hkdnet/tapp
 ```
-
 
 ## Usage
 

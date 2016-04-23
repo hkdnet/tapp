@@ -1,5 +1,11 @@
 require "./tapp/*"
 
 module Tapp
-  # TODO Put your code here
+end
+
+class Object
+  def tapp
+    puts self
+    self
+  end
 end
